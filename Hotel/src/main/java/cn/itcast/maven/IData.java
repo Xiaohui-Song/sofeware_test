@@ -1,0 +1,9 @@
+package cn.itcast.maven;
+
+public interface IData {
+	public void iniRooms();
+	public String in_Out_Rooms(int roomNo,String name);
+	public String getStation(int roomNo);
+	public String[][] getRoom();
+
+}

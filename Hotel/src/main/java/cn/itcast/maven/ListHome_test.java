@@ -1,13 +1,13 @@
 package cn.itcast.maven;
 
-public class ListHome{
+public class ListHome_test {
 	private static IData iData;
 	
-	public ListHome() {
+	public ListHome_test() {
 		
 	}
 	
-	public ListHome(IData iData) {
+	public ListHome_test(IData iData) {
 		this.iData = iData;
 	}
 	

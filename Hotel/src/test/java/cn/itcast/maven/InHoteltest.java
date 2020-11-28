@@ -9,7 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import  cn.itcast.maven.IData;
-import  cn.itcast.maven.InHotel;
+import cn.itcast.maven.InHotel_test;
 
 
 public class InHoteltest {

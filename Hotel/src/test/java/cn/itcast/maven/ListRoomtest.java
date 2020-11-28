@@ -13,7 +13,7 @@ import org.junit.Test;
 //import org.junit.runners.Parameterized.Parameters;
 
 import cn.itcast.maven.IData;
-import cn.itcast.maven.ListHome;
+import cn.itcast.maven.ListHome_test;
 
 public class ListRoomtest {
 	
